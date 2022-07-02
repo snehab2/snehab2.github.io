@@ -1,0 +1,141 @@
+body{
+  font-family: 'Poppins', sans-serif !important;
+  color: #2A2A33;
+  background-color: #FAFAFA;
+
+}
+
+/*nav bar*/
+nav{
+  padding-left:60px;
+  padding-right:60px;
+  background-color: #FAFAFA;
+  height:130px;
+}
+
+
+/*responsive container*/
+.container-fluid{
+  background-color:#FAFAFA;
+
+}
+
+/*intro section*/
+/*.introContainer{
+  padding-top: 120px;
+  padding-bottom: 120px;
+  padding-left:60px;
+  padding-right:60px;
+}*/
+
+.display-2{
+  color:#FAFAFA;
+}
+.introParagraph{
+  font-size:22px;
+  color:#FAFAFA;
+}
+
+.backgroundContainer{
+  padding-top: 120px;
+  padding-bottom: 120px;
+  padding-left:60px;
+  padding-right:60px;
+  background-image: url(port.png);
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position:center;
+}
+
+/*.bg-img{
+  padding-top: 120px;
+  padding-bottom: 120px;
+  padding-left:60px;
+  padding-right:60px;
+  background-image: url(port.png);
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position:center;
+
+}*/
+
+
+/*projects container*/
+.projectsContainer{
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-left:60px;
+  padding-right:60px;
+  background-color: #FAFAFA;
+}
+
+.row{
+  padding-top:50px;
+}
+
+.paragraph{
+  padding-top:20px;
+  padding-left:20px;
+  padding-right:20px;
+}
+
+/*playgrounds container*/
+.playgroundSection{
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-left:60px;
+  padding-right:60px;
+}
+
+/*contact container*/
+.contactSection{
+  padding-top: 80px;
+  padding-bottom: 120px;
+  padding-left:60px;
+  padding-right:60px;
+}
+
+.contactRow{
+  padding-top:20px;
+  font-size:20px;
+
+}
+
+/*links*/
+a{
+  text-decoration:none;
+  font-family: 'Poppins', sans-serif;
+  color: #2F6690 !important;
+}
+
+a:link{
+  color: #2F6690 !important;
+
+}
+
+a:visited{
+  color:#4a4983 !important;
+
+}
+
+a:focus{
+  color:#e0526d !important;
+}
+
+a:hover{
+  color:#e0526d !important;
+  text-decoration: underline 2px;
+  transition:0.5s;
+ 
+  
+}
+
+a:active{
+  color:#e0526d !important;
+}
+
+
+/*img*/
+img{
+  filter:drop-shadow(3px 3px 10px rgb(216, 216, 216));
+}

@@ -1,0 +1,89 @@
+body{
+  font-family: 'Poppins', sans-serif !important;
+  color: #2A2A33;
+  background-color: #FAFAFA;
+}
+
+/*nav bar*/
+nav{
+  padding-left:60px;
+  padding-right:60px;
+  background-color: #FAFAFA;
+  height:130px;
+}
+
+.navTitle{
+  font-size:18px;
+}
+
+/*responsive container*/
+.container-fluid{
+  background-color: #FAFAFA;
+}
+
+/*about me container*/
+.aboutMeContainer{
+  padding-top: 30px;
+  padding-bottom: 120px;
+  padding-left:60px;
+  padding-right:60px;
+}
+
+.row{
+  padding-top:50px;
+}
+
+.paragraph{
+  padding-top:20px;
+  padding-left:20px;
+  padding-right:20px;
+}
+
+/*contact container*/
+.contactSection{
+  padding-top: 80px;
+  padding-bottom: 120px;
+  padding-left:60px;
+  padding-right:60px;
+}
+
+.contactRow{
+  
+  font-size:20px;
+
+}
+
+/*links*/
+a{
+  text-decoration:none;
+  font-family: 'Poppins', sans-serif;
+  color: #2F6690 !important;
+}
+
+a:link{
+  color: #2F6690 !important;
+
+}
+
+a:visited{
+  color:#4a4983 !important;
+
+}
+
+a:focus{
+  color:#e0526d !important;
+}
+
+a:hover{
+  color:#e0526d !important;
+  text-decoration: underline 2px;
+  transition:0.5s;
+ 
+  
+}
+
+a:active{
+  color:#e0526d !important;
+}
+
+
